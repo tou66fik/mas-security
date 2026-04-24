@@ -1,0 +1,15 @@
+BRUTE_FORCE:
+  technique_id: "T1110"
+  tactic: "Credential Access"
+SQL_INJECTION:
+  technique_id: "T1190"
+  tactic: "Initial Access"
+CSRF:
+  technique_id: "T1189"
+  tactic: "Initial Access"
+MITM:
+  technique_id: "T1557"
+  tactic: "Credential Access"
+TROJAN_C2:
+  technique_id: "T1071.001"
+  tactic: "Command and Control"

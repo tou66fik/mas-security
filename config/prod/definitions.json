@@ -1,0 +1,5 @@
+{
+  "users": [{"name": "mas_user", "password": "mas_pass", "tags": "monitoring"}],
+  "vhosts": [{"name": "mas_vhost"}],
+  "permissions": [{"user": "mas_user", "vhost": "mas_vhost", "configure": ".*", "write": ".*", "read": ".*"}]
+}
