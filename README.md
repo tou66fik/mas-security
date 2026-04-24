@@ -1,4 +1,4 @@
-# mas-security
+# 🛡️ MAS Security - Multi-Agent System for Cyber Defense
  Voici un fichier `README.md` professionnel, complet et prêt à être collé à la racine de votre projet. Il documente l'architecture, l'installation (avec les correctifs spécifiques Ubuntu/Python 3.12), le lancement multi-terminal et le dépannage.
 
 ```markdown
