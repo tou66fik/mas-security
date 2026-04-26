@@ -1,7 +1,6 @@
- Voici un fichier `README.md` professionnel, complet et prêt à être collé à la racine de votre projet. Il documente l'architecture, l'installation (avec les correctifs spécifiques Ubuntu/Python 3.12), le lancement multi-terminal et le dépannage.
 
-```markdown
 # 🛡️ MAS Security - Multi-Agent System for Cyber Defense
+
 
 [![Python](https://img.shields.io/badge/Python-3.12+-blue.svg)](https://www.python.org/)
 [![RabbitMQ](https://img.shields.io/badge/Broker-RabbitMQ-orange.svg)](https://www.rabbitmq.com/)
@@ -131,4 +130,4 @@ Projet académique/professionnel ouvert aux améliorations. Sous licence MIT.
 2. Remplacez `<votre-repo>` par l'URL de votre dépôt Git si vous en créez un
 3. Le README inclut **tous les correctifs** que nous avons appliqués (PATH, venv, coroutine, vhost RabbitMQ, Python 3.12)
 
-Votre projet est maintenant **documenté, reproductible et prêt pour une présentation ou un déploiement**. Si vous souhaitez que j'ajoute un fichier `LICENSE`, un `Makefile` pour automatiser les commandes, ou un guide d'intégration SIEM (Splunk/Sentinel), dites-le-moi. 🛡️📊✅
+
