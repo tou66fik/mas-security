@@ -126,8 +126,8 @@ python3 kibana_exporter.py --es http://localhost:9200 --index mas-alerts --days 
 ## 🤝 Contribution & Licence
 Projet académique/professionnel ouvert aux améliorations. Sous licence MIT.
 ```
-
 ### 💡 Conseils d'utilisation
+
 1. **Copiez-collez** ce contenu dans un fichier `README.md` à la racine de `~/Desktop/mas-security/`
 2. Remplacez `<votre-repo>` par l'URL de votre dépôt Git si vous en créez un
 3. Le README inclut **tous les correctifs** que nous avons appliqués (PATH, venv, coroutine, vhost RabbitMQ, Python 3.12)
