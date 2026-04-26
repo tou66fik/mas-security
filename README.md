@@ -19,8 +19,9 @@ Système multi-agents (MAS) événementiel et asynchrone conçu pour la **détec
    ACT (Trojan/C2)              ▼
                            Elasticsearch (Persistance)
 ```
-
 ## 🧩 Composants
+
+
 | Agent | Rôle | Déclencheur |
 |-------|------|-------------|
 | `ADI` | Détection Brute Force | >5 échecs d'authentification |
@@ -33,10 +34,12 @@ Système multi-agents (MAS) événementiel et asynchrone conçu pour la **détec
 | `AR` | Agent de Réponse | Blocage IP, journalisation, reporting |
 
 ## 🛠️ Prérequis
+
 - **Python 3.12+**
 - **Docker & Docker Compose** (pour RabbitMQ + Elasticsearch)
 - **Git**
 - **pip** (ou `python3 -m pip`)
+
 
 ## 📦 Installation & Démarrage
 
